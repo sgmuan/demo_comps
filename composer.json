@@ -1,0 +1,18 @@
+{
+    "name": "sgma1/demo1package",
+    "description": "is a test",
+    "type": "composer-plugin",
+    "license": "Apache License 2.0",
+    "autoload": {
+        "psr-4": {
+            "Sgma1\\Demo1package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shangguanmuan",
+            "email": "shangguanmuan@modo7game.com"
+        }
+    ],
+    "require": {}
+}
